@@ -1,4 +1,6 @@
-./.env
-./node_modules
-./to do list.txt
-./token-generator.js
+/.env
+/node_modules
+/to do list.txt
+/token-generator.js
+/package.json
+/package-lock.json
