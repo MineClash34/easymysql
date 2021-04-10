@@ -1,0 +1,4 @@
+./.env
+./node_modules
+./to do list.txt
+./token-generator.js
